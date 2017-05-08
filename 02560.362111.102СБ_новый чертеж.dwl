@@ -1,3 +1,0 @@
-Mozart
-WINCTRL-Q6G9FH5 
-8 мая 2017 г.  11:09:20
