@@ -1,3 +1,4 @@
 out/
 target/
 *.dwl2
+*.bak
